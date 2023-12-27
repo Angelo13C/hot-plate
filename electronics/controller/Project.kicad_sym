@@ -1875,7 +1875,7 @@
     (property "Value" "SW_Push" (at 0 -1.524 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Project:SW_PUSH_6mm" (at 0 5.08 0)
+    (property "Footprint" "Project:SW_LS38J2F-T" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 0 5.08 0)
