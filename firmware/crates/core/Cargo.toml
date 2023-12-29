@@ -9,3 +9,4 @@ edition = "2021"
 embedded-hal = "1.0.0-rc.3"
 
 ringbuffer = "0.15"
+micromath = { version = "2.1", features = ["vector"] }
