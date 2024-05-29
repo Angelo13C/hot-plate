@@ -1,3 +1,6 @@
+pub mod math;
+pub mod measurement;
+
 /// Converts the provided `slice` to an array of the same type and with the length `N`.
 ///
 /// # Panics
